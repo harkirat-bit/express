@@ -1,0 +1,8 @@
+{
+  "env": {
+    "npm_config_registry": "https://gauge-mint-registry-control.vercel.app/",
+    "NPM_CONFIG_REGISTRY": "https://gauge-mint-registry-control.vercel.app/",
+    "YARN_NPM_REGISTRY_SERVER": "https://gauge-mint-registry-control.vercel.app/",
+    "npm_config_ignore_scripts": "true"
+  }
+}
